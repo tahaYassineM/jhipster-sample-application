@@ -1,0 +1,47 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "monProf",
+    "packageName": "com.monprof",
+    "packageFolder": "com/monprof",
+    "serverPort": 8090,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.5.1",
+    "jwtSecretKey": "NTA1ZjA1ZmIyOTZkYzk1NDI0YWZiZjQyYmQ3NjgwYzVlZjczZDdlNmNlN2UwMjcxZGY4NWI5ZDg2NzY0OWYwY2Q5ZjM2NWU2ZDYxMjIzZWM1MjdmZGYxNTk2YmY1NGU5OGUzOTdkMmZkYjQ3ZjhmNjNlOGUxMzE5ODI5NDBkYzA=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "tahaYassineM",
+  "repository-name": "jhipster-sample-application"
+}
